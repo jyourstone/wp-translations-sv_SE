@@ -1,0 +1,207 @@
+# Swedish translation of languages
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-28 12:10+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"Last-Translator: Johan Yourstone <johan.yourstone@gmail.com>\n"
+"Language-Team: \n"
+
+msgid "Chinese"
+msgstr "KInesiska"
+
+msgid "Vietnamese"
+msgstr "Vietnamesiska"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Ukrainian"
+msgstr "Ukrainska"
+
+msgid "Tatar"
+msgstr "Tatariska"
+
+msgid "Turkish"
+msgstr "Turkiska"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Tamil"
+msgstr "Tamilska"
+
+msgid "Swahili"
+msgstr "Swahili"
+
+msgid "Swedish"
+msgstr "Svenska"
+
+msgid "Serbian"
+msgstr "Serbiska"
+
+msgid "Albanian"
+msgstr "Albanska"
+
+msgid "Slovenian"
+msgstr "Slovenska"
+
+msgid "Slovak"
+msgstr "Slovakiska"
+
+msgid "Russian"
+msgstr "Ryska"
+
+msgid "Romanian"
+msgstr "Rumänska"
+
+msgid "Portuguese"
+msgstr "Portugisiska"
+
+msgid "Polish"
+msgstr "Polska"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Norwegian Nynorsk"
+msgstr "Norska nynorsk"
+
+msgid "Dutch"
+msgstr "Nederländska"
+
+msgid "Nepali"
+msgstr "Nepali"
+
+msgid "Norwegian Bokmal"
+msgstr "Norska bokmål"
+
+msgid "Mongolian"
+msgstr "Mongoliska"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Macedonian"
+msgstr "Makedonska"
+
+msgid "Latvian"
+msgstr "Lettiska"
+
+msgid "Lithuanian"
+msgstr "Litauiska"
+
+msgid "Korean"
+msgstr "Koreanska"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "Kazakh"
+msgstr "Kazakiska"
+
+msgid "Georgian"
+msgstr "Georgiska"
+
+msgid "Japanese"
+msgstr "Japanska"
+
+msgid "Italian"
+msgstr "Italienska"
+
+msgid "Icelandic"
+msgstr "Isländska"
+
+msgid "Indonesian"
+msgstr "Indonesiska"
+
+msgid "Hungarian"
+msgstr "Ungerska"
+
+msgid "Croatian"
+msgstr "Kroatiska"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hebrew"
+msgstr "Hebreiska"
+
+msgid "Galician"
+msgstr "Galiciska"
+
+msgid "Irish"
+msgstr "Irlänska"
+
+msgid "Frisian"
+msgstr "Frisiska"
+
+msgid "French"
+msgstr "Franska"
+
+msgid "Finnish"
+msgstr "Finska"
+
+msgid "Persian"
+msgstr "Persiska"
+
+msgid "Basque"
+msgstr "Baskiska"
+
+msgid "Estonian"
+msgstr "Estniska"
+
+msgid "Spanish"
+msgstr "Spanska"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "English"
+msgstr "Engelska"
+
+msgid "Greek"
+msgstr "Grekiska"
+
+msgid "German"
+msgstr "Tyska"
+
+msgid "Danish"
+msgstr "Danska"
+
+msgid "Welsh"
+msgstr "Kymriska"
+
+msgid "Czech"
+msgstr "Tjekiska"
+
+msgid "Catalan"
+msgstr "Katalanska"
+
+msgid "Bosnian"
+msgstr "Bosniska"
+
+msgid "Bengali"
+msgstr "Bengaliska"
+
+msgid "Bulgarian"
+msgstr "Bulgariska"
+
+msgid "Azerbaijani"
+msgstr "Azerbajdzjanska"
+
+msgid "Arabic"
+msgstr "Arabiska"
