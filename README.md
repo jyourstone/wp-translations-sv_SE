@@ -1,7 +1,7 @@
 # wp-translations-sv_SE
 Translations for WordPress strings in Swedish
 
-# Countries, cities and continents in Swedish
+## Countries, cities and continents in Swedish
 
 These files contains a collection of geographical names in English (en_US) and with translations to Swedish (sv_SE) in the following categories:
 - Countries
