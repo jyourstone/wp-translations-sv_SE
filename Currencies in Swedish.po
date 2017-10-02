@@ -1,0 +1,737 @@
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-02 15:45+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"Last-Translator: Johan Yourstone <johan.yourstone@gmail.com>\n"
+"Language-Team: \n"
+
+msgid "Zimbabwean Dollar"
+msgstr "Zimbabwisk dollar"
+
+msgid "Zimbabwean dollar"
+msgstr "Zimbabwisk dollar"
+
+msgid "South African Rand"
+msgstr "Sydafrikansk rand"
+
+msgid "South African rand"
+msgstr "Sydafrikansk rand"
+
+msgid "Yemeni Rial"
+msgstr "Jemenitisk rial"
+
+msgid "Yemeni rial"
+msgstr "Jemenitisk rial"
+
+msgid "Eastern Caribbean Dollar"
+msgstr "Östkaribisk dollar"
+
+msgid "Eastern Caribbean dollar"
+msgstr "Östkaribisk dollar"
+
+msgid "Vietnamese Dong"
+msgstr "Vietnamesisk dong"
+
+msgid "Vietnamese dong"
+msgstr "Vietnamesisk dong"
+
+msgid "Vietnamese đồng"
+msgstr "Vietnamesisk dong"
+
+msgid "Venezuelan Bolívar"
+msgstr "Venezuelansk bolívar"
+
+msgid "Venezuelan bolívar"
+msgstr "Venezuelansk bolívar"
+
+msgid "Venezuelan bolivar"
+msgstr "Venezuelansk bolívar"
+
+msgid "Uzbekistani Soʻm"
+msgstr "Uzbekistansk som"
+
+msgid "Uzbekistani soʻm"
+msgstr "Uzbekistansk som"
+
+msgid "Uzbekistani Som"
+msgstr "Uzbekistansk som"
+
+msgid "Uzbekistani som"
+msgstr "Uzbekistansk som"
+
+msgid "Uruguayan Peso"
+msgstr "Uruguayansk peso"
+
+msgid "Uruguayan peso"
+msgstr "Uruguayansk peso"
+
+msgid "United States Dollar"
+msgstr "Amerikansk dollar"
+
+msgid "United States dollar"
+msgstr "Amerikansk dollar"
+
+msgid "Ukrainian Hryvnia"
+msgstr "Ukrainsk hryvnia"
+
+msgid "Ukrainian hryvnia"
+msgstr "Ukrainsk hryvnia"
+
+msgid "New Taiwan Dollar"
+msgstr "Taiwanesisk dollar"
+
+msgid "New Taiwan dollar"
+msgstr "Taiwanesisk dollar"
+
+msgid "Tuvaluan Dollar"
+msgstr "Tuvaluansk dollar"
+
+msgid "Tuvaluan dollar"
+msgstr "Tuvaluansk dollar"
+
+msgid "Trinidad and Tobago Dollar"
+msgstr "Trinidaddollar"
+
+msgid "Trinidad and Tobago dollar"
+msgstr "Trinidaddollar"
+
+msgid "Turkish Lira"
+msgstr "Turkish lira"
+
+msgid "Turkish lira"
+msgstr "Turkish lira"
+
+msgid "Thai Baht"
+msgstr "Thailändsk baht"
+
+msgid "Thai baht"
+msgstr "Thailändsk baht"
+
+msgid "Syrian Pound"
+msgstr "Syriskt pund"
+
+msgid "Syrian pound"
+msgstr "Syriskt pund"
+
+msgid "Salvadoran Colón"
+msgstr "Salvadoransk colón"
+
+msgid "Salvadoran colon"
+msgstr "Salvadoransk colón"
+
+msgid "Salvadoran colón"
+msgstr "Salvadoransk colón"
+
+msgid "Surinamese Dollar"
+msgstr "Surinamesisk dollar"
+
+msgid "Surinamese dollar"
+msgstr "Surinamesisk dollar"
+
+msgid "Somali Shilling"
+msgstr "Somalisk shilling"
+
+msgid "Somali shilling"
+msgstr "Somalisk shilling"
+
+msgid "Saint Helena Pound"
+msgstr "Sankthelenskt pund"
+
+msgid "Saint Helena pound"
+msgstr "Sankthelenskt pund"
+
+msgid "Singapore Dollar"
+msgstr "Singaporiansk dollar"
+
+msgid "Singapore dollar"
+msgstr "Singaporiansk dollar"
+
+msgid "Swedish Krona"
+msgstr "Svensk krona"
+
+msgid "Swedish krona"
+msgstr "Svensk krona"
+
+msgid "Seychellois Rupee"
+msgstr "Seychellisk rupie"
+
+msgid "Seychellois rupee"
+msgstr "Seychellisk rupie"
+
+msgid "Solomon Islands Dollar"
+msgstr "Salomondollar"
+
+msgid "Solomon Islands dollar"
+msgstr "Salomondollar"
+
+msgid "Saudi Arabian Riyal"
+msgstr "Saudiarabisk rial"
+
+msgid "Saudi Arabian riyal"
+msgstr "Saudiarabisk rial"
+
+msgid "Russian Ruble"
+msgstr "Rysk rubel"
+
+msgid "Russian Ruble"
+msgstr "Rysk rubel"
+
+msgid "Serbian Dinar"
+msgstr "Serbisk dinar"
+
+msgid "Serbian dinar"
+msgstr "Serbisk dinar"
+
+msgid "Romanian Leu"
+msgstr "Rumänsk leu"
+
+msgid "Romanian leu"
+msgstr "Rumänsk leu"
+
+msgid "Qatari Riyal"
+msgstr "Qatarisk riyal"
+
+msgid "Qatari riyal"
+msgstr "Qatarisk riyal"
+
+msgid "Paraguayan Guaraní"
+msgstr "Paraguayansk guarani"
+
+msgid "Paraguayan Guarani"
+msgstr "Paraguayansk guarani"
+
+msgid "Paraguayan guaraní"
+msgstr "Paraguayansk guarani"
+
+msgid "Paraguayan guarani"
+msgstr "Paraguayansk guarani"
+
+msgid "Polish Złoty"
+msgstr "Polsk zloty"
+
+msgid "Polish Zloty"
+msgstr "Polsk zloty"
+
+msgid "Polish złoty"
+msgstr "Polsk zloty"
+
+msgid "Polish zloty"
+msgstr "Polsk zloty"
+
+msgid "Pakistani Rupee"
+msgstr "Pakistansk rupie"
+
+msgid "Pakistani rupee"
+msgstr "Pakistansk rupie"
+
+msgid "Philippine Peso"
+msgstr "Filippinsk peso"
+
+msgid "Philippine peso"
+msgstr "Filippinsk peso"
+
+msgid "Peruvian Sol"
+msgstr "Peruansk sol"
+
+msgid "Peruvian sol"
+msgstr "Peruansk sol"
+
+msgid "Panamanian Balboa"
+msgstr "Panamansk balboa"
+
+msgid "Panamanian balboa"
+msgstr "Panamansk balboa"
+
+msgid "Omani Rial"
+msgstr "Omansk rial"
+
+msgid "Omani rial"
+msgstr "Omansk rial"
+
+msgid "New Zealand Dollar"
+msgstr "Nyzeeländsk dollar"
+
+msgid "New Zealand dollar"
+msgstr "Nyzeeländsk dollar"
+
+msgid "Nepalese Rupee"
+msgstr "Nepalesisk rupie"
+
+msgid "Nepalese rupee"
+msgstr "Nepalesisk rupie"
+
+msgid "Norwegian Krone"
+msgstr "Norsk krona"
+
+msgid "Norwegian krone"
+msgstr "Norsk krona"
+
+msgid "Nicaragua Córdoba"
+msgstr "Nicaraguansk córdoba"
+
+msgid "Nicaragua Cordoba"
+msgstr "Nicaraguansk córdoba"
+
+msgid "Nicaragua córdoba"
+msgstr "Nicaraguansk córdoba"
+
+msgid "Nicaragua cordoba"
+msgstr "Nicaraguansk córdoba"
+
+msgid "Nigerian Naira"
+msgstr "Nigeriansk naira"
+
+msgid "Nigerian naira"
+msgstr "Nigeriansk naira"
+
+msgid "Namibian Dollar"
+msgstr "Namibisk dollar"
+
+msgid "Namibian dollar"
+msgstr "Namibisk dollar"
+
+msgid "Mozambique Metical"
+msgstr "Mozambique metical"
+
+msgid "Mozambique metical"
+msgstr "Mozambique metical"
+
+msgid "Malaysian Ringgit"
+msgstr "Malaysisk ringgit"
+
+msgid "Malaysian ringgit"
+msgstr "Malaysisk ringgit"
+
+msgid "Mexican Peso"
+msgstr "Mexikansk peso"
+
+msgid "Mexican peso"
+msgstr "Mexikansk peso"
+
+msgid "Mauritian Rupee"
+msgstr "Mauritisk rupie"
+
+msgid "Mauritian rupee"
+msgstr "Mauritisk rupie"
+
+msgid "Mongolian Tughrik"
+msgstr "Mongolisk tugrik"
+
+msgid "Mongolian tughrik"
+msgstr "Mongolisk tugrik"
+
+msgid "Macedonian Denar"
+msgstr "Makedonisk denar"
+
+msgid "Macedonian denar"
+msgstr "Makedonisk denar"
+
+msgid "Moroccan Dirham"
+msgstr "Marockansk dirham"
+
+msgid "Moroccan dirham"
+msgstr "Marockansk dirham"
+
+msgid "Latvian Lats"
+msgstr "Latvisk lats"
+
+msgid "Latvian lats"
+msgstr "Latvisk lats"
+
+msgid "Lithuanian Litas"
+msgstr "Litauisk litas"
+
+msgid "Lithuanian litas"
+msgstr "Litauisk litas"
+
+msgid "Liberian Dollar"
+msgstr "Liberiansk dollar"
+
+msgid "Liberian dollar"
+msgstr "Liberiansk dollar"
+
+msgid "Sri Lanka Rupee"
+msgstr "Sri Lanka rupie"
+
+msgid "Sri Lanka rupee"
+msgstr "Sri Lanka rupie"
+
+msgid "Lebanese Pound"
+msgstr "Libanesiskt pund"
+
+msgid "Lebanese pound"
+msgstr "Libanesiskt pund"
+
+msgid "Lao Kip"
+msgstr "Lao kip"
+
+msgid "Lao kip"
+msgstr "Lao kip"
+
+msgid "Kazakhstani Tenge"
+msgstr "Kazakstansk tenge"
+
+msgid "Kazakhstani tenge"
+msgstr "Kazakstansk Tenge"
+
+msgid "Cayman Islands Dollar"
+msgstr "Caymansk dollar"
+
+msgid "Cayman Islands dollar"
+msgstr "Caymansk dollar"
+
+msgid "South Korean Won"
+msgstr "Sydkoreansk won"
+
+msgid "South Korean won"
+msgstr "Sydkoreansk won"
+
+msgid "North Korean Won"
+msgstr "Nordkoreansk won"
+
+msgid "North Korean won"
+msgstr "Nordkoreansk won"
+
+msgid "Cambodian Riel"
+msgstr "Kambodjansk riel"
+
+msgid "Cambodian riel"
+msgstr "Kambodjansk riel"
+
+msgid "Kyrgyzstani Som"
+msgstr "Kyrgyzstan som"
+
+msgid "Kyrgyzstani som"
+msgstr "Kyrgyzstan som"
+
+msgid "Japanese Yen"
+msgstr "Japansk yen"
+
+msgid "Japanese yen"
+msgstr "Japansk yen"
+
+msgid "Jamaican Dollar"
+msgstr "Jamaicansk dollar"
+
+msgid "Jamaican dollar"
+msgstr "Jamaicansk dollar"
+
+msgid "Jersey Pound"
+msgstr "Jerseypund"
+
+msgid "Jersey pound"
+msgstr "Jerseypund"
+
+msgid "Icelandic Krona"
+msgstr "Isländsk krona"
+
+msgid "Icelandic Krona"
+msgstr "Isländsk krona"
+
+msgid "Iranian Rial"
+msgstr "Iransk rial"
+
+msgid "Iranian rial"
+msgstr "Iransk rial"
+
+msgid "Indian Rupee"
+msgstr "Indisk rupie"
+
+msgid "Indian rupee"
+msgstr "Indisk rupie"
+
+msgid "Isle of Man Pound"
+msgstr "Isle of Man-pund"
+
+msgid "Isle of Man pound"
+msgstr "Isle of Man-pund"
+
+msgid "Israeli Shekel"
+msgstr "Israelisk shekel"
+
+msgid "Israeli shekel"
+msgstr "Israelisk shekel"
+
+msgid "Indonesian Rupiah"
+msgstr "Indonesisk rupiah"
+
+msgid "Indonesian rupiah"
+msgstr "Indonesisk rupiah"
+
+msgid "Hungarian Forint"
+msgstr "Ungersk forint"
+
+msgid "Hungarian forint"
+msgstr "Ungersk forint"
+
+msgid "Croatian Kuna"
+msgstr "Kroatisk kuna"
+
+msgid "Croatian kuna"
+msgstr "Kroatisk kuna"
+
+msgid "Honduran Lempira"
+msgstr "Hondurisk lempira"
+
+msgid "Honduran lempira"
+msgstr "Hondurisk lempira"
+
+msgid "Hong Kong Dollar"
+msgstr "Hongkongdollar"
+
+msgid "Hong Kong dollar"
+msgstr "Hongkongdollar"
+
+msgid "Guyanese Dollar"
+msgstr "Guyansk dollar"
+
+msgid "Guyanese dollar"
+msgstr "Guyansk dollar"
+
+msgid "Guatemalan Quetzal"
+msgstr "Guatemalansk quetzal"
+
+msgid "Guatemalan quetzal"
+msgstr "Guatemalansk quetzal"
+
+msgid "Gibraltar Pound"
+msgstr "Gibraltarpund"
+
+msgid "Gibraltar pound"
+msgstr "Gibraltarpund"
+
+msgid "Ghanaian Cedis"
+msgstr "Ghana cedi"
+
+msgid "Ghanaian cedis"
+msgstr "Ghana cedi"
+
+msgid "Guernsey Pound"
+msgstr "Guernseypund"
+
+msgid "Guernsey pound"
+msgstr "Guernseypund"
+
+msgid "Georgian Lari"
+msgstr "Georgian lari"
+
+msgid "Georgian lari"
+msgstr "Georgian lari"
+
+msgid "British Pound Sterling"
+msgstr "Brittiskt pund"
+
+msgid "British Pound"
+msgstr "Brittiskt pund"
+
+msgid "British pound"
+msgstr "Brittiskt pund"
+
+msgid "Fijian Dollar"
+msgstr "Fijidollar"
+
+msgid "Fijian dollar"
+msgstr "Fijidollar"
+
+msgid "Euro"
+msgstr "Euro"
+
+msgid "Egyptian Pound"
+msgstr "Egyptiskt pund"
+
+msgid "Egyptian pound"
+msgstr "Egyptiskt pund"
+
+msgid "Estonian Kroon"
+msgstr "Estnisk krona"
+
+msgid "Estonian kroon"
+msgstr "Estnisk krona"
+
+msgid "Dominican Peso"
+msgstr "Dominikansk peso"
+
+msgid "Dominican peso"
+msgstr "Dominikansk peso"
+
+msgid "Danish Krone"
+msgstr "Dansk krona"
+
+msgid "Danish krone"
+msgstr "Dansk krona"
+
+msgid "Czech Koruna"
+msgstr "Tjeckisk krona"
+
+msgid "Czech koruna"
+msgstr "Tjeckisk krona"
+
+msgid "Cuban Peso"
+msgstr "Kubansk peso"
+
+msgid "Cuban peso"
+msgstr "Kubansk peso"
+
+msgid "Costa Rican Colón"
+msgstr "Costaricansk colón"
+
+msgid "Costa Rican Colon"
+msgstr "Costaricansk colón"
+
+msgid "Costa Rican colón"
+msgstr "Costaricansk colón"
+
+msgid "Costa Rican colon"
+msgstr "Costaricansk colón"
+
+msgid "Colombian Peso"
+msgstr "Colombiansk peso"
+
+msgid "Colombian peso"
+msgstr "Colombiansk peso"
+
+msgid "Chinese Renminbi"
+msgstr "Kinesisk renminbi"
+
+msgid "Chinese renminbi"
+msgstr "Kinesisk renminbi"
+
+msgid "Chilean Peso"
+msgstr "Chilensk peso"
+
+msgid "Chilean peso"
+msgstr "Chilensk peso"
+
+msgid "Swiss Franc"
+msgstr "Schweizisk franc"
+
+msgid "Swiss franc"
+msgstr "Schweizisk franc"
+
+msgid "Canadian Dollar"
+msgstr "Kanadensisk dollar"
+
+msgid "Canadian dollar"
+msgstr "Kanadensisk dollar"
+
+msgid "Belize Dollar"
+msgstr "Belizedollar"
+
+msgid "Belize dollar"
+msgstr "Belizedollar"
+
+msgid "Belarusian Ruble"
+msgstr "Vitrysk rubel"
+
+msgid "Belarusian ruble"
+msgstr "Vitrysk rubel"
+
+msgid "Botswana Pula"
+msgstr "Botswansk pula"
+
+msgid "Botswana pula"
+msgstr "Botswansk pula"
+
+msgid "Bahamaian Dollar"
+msgstr "Bahamansk dollar"
+
+msgid "Bahamaian dollar"
+msgstr "Bahamansk dollar"
+
+msgid "Brazilian Real"
+msgstr "Brasiliansk real"
+
+msgid "Brazilian Real"
+msgstr "Brasiliansk real"
+
+msgid "Bolivian Boliviano"
+msgstr "Boliviansk boliviano"
+
+msgid "Bolivian boliviano"
+msgstr "Boliviansk boliviano"
+
+msgid "Brunei Dollar"
+msgstr "Bruneidollar"
+
+msgid "Brunei dollar"
+msgstr "Bruneidollar"
+
+msgid "Bermudian Dollar"
+msgstr "Bermudisk dollar"
+
+msgid "Bermudian dollar"
+msgstr "Bermudisk dollar"
+
+msgid "Bulgarian Lev"
+msgstr "Bulgarisk lev"
+
+msgid "Bulgarian lev"
+msgstr "Bulgarisk lev"
+
+msgid "Barbadian Dollar"
+msgstr "Barbadosdollar"
+
+msgid "Barbadian Dollar"
+msgstr "Barbadosdollar"
+
+msgid "Bosnia and Herzegovina convertible Mark"
+msgstr "Bosnien och Hercegovina konvertibilna mark"
+
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr "Bosnien och Hercegovina konvertibilna mark"
+
+msgid "Azerbaijani Manat"
+msgstr "Azerbajdzjanska manat"
+
+msgid "Azerbaijani manat"
+msgstr "Azerbajdzjanska manat"
+
+msgid "Aruban Florin"
+msgstr "Arubansk florin"
+
+msgid "Aruban florin"
+msgstr "Arubansk florin"
+
+msgid "Australian Dollar"
+msgstr "Australisk dollar"
+
+msgid "Australian dollar"
+msgstr "Australisk dollar"
+
+msgid "Argentine Peso"
+msgstr "Argentisk peso"
+
+msgid "Argentine peso"
+msgstr "Argentisk peso"
+
+msgid "Netherlands Antilles Guilder"
+msgstr "Nederländsk gulden"
+
+msgid "Netherlands antilles guilder"
+msgstr "Nederländsk gulden"
+
+msgid "Albanian Lek"
+msgstr "Albansk lek"
+
+msgid "Albanian Lek"
+msgstr "Albansk lek"
+
+msgid "Afghan Afghani"
+msgstr "Afghansk afghani"
+
+msgid "Afghan afghani"
+msgstr "Afghansk afghani"
+
+msgid "United Arab Emirates Dirham"
+msgstr "Emiratisk dirham"
+
+msgid "United Arab Emirates dirham"
+msgstr "Emiratisk dirham"
