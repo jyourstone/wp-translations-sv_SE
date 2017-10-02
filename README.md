@@ -14,6 +14,10 @@ These files contain a collection of geographical names in English (en_US) and wi
 
 These files contain a collection of languages in English (en_US) and with translations to Swedish (sv_SE)
 
+## Currencies in Swedish
+
+These files contain a collection of currencies in English (en_US) and with translations to Swedish (sv_SE)
+
 
 ## Description
 
