@@ -16,7 +16,7 @@ These files contain a collection of languages in English (en_US) and with transl
 
 ## Currencies in Swedish
 
-These files contain a collection of currencies in English (en_US) and with translations to Swedish (sv_SE)
+These files contain a collection of currencies in English (en_US) and with translations to Swedish (sv_SE). The files contain different variations of the strings to increase matching when importing to https://translate.wordpress.org/.
 
 
 ## Description
