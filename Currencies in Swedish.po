@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-10-02 15:45+0200\n"
+"PO-Revision-Date: 2017-10-03 12:04+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,16 +19,34 @@ msgstr "Zimbabwisk dollar"
 msgid "Zimbabwean dollar"
 msgstr "Zimbabwisk dollar"
 
+msgid "Zimbabwe Dollar"
+msgstr "Zimbabwisk dollar"
+
+msgid "Zimbabwe dollar"
+msgstr "Zimbabwisk dollar"
+
 msgid "South African Rand"
 msgstr "Sydafrikansk rand"
 
 msgid "South African rand"
 msgstr "Sydafrikansk rand"
 
+msgid "South Africa Rand"
+msgstr "Sydafrikansk rand"
+
+msgid "South Africa rand"
+msgstr "Sydafrikansk rand"
+
 msgid "Yemeni Rial"
 msgstr "Jemenitisk rial"
 
 msgid "Yemeni rial"
+msgstr "Jemenitisk rial"
+
+msgid "Yemen Rial"
+msgstr "Jemenitisk rial"
+
+msgid "Yemen rial"
 msgstr "Jemenitisk rial"
 
 msgid "Eastern Caribbean Dollar"
@@ -46,6 +64,12 @@ msgstr "Vietnamesisk dong"
 msgid "Vietnamese đồng"
 msgstr "Vietnamesisk dong"
 
+msgid "Vietnam Dong"
+msgstr "Vietnamesisk dong"
+
+msgid "Vietnam dong"
+msgstr "Vietnamesisk dong"
+
 msgid "Venezuelan Bolívar"
 msgstr "Venezuelansk bolívar"
 
@@ -53,6 +77,12 @@ msgid "Venezuelan bolívar"
 msgstr "Venezuelansk bolívar"
 
 msgid "Venezuelan bolivar"
+msgstr "Venezuelansk bolívar"
+
+msgid "Venezuela Bolivar"
+msgstr "Venezuelansk bolívar"
+
+msgid "Venezuela bolivar"
 msgstr "Venezuelansk bolívar"
 
 msgid "Uzbekistani Soʻm"
@@ -67,10 +97,22 @@ msgstr "Uzbekistansk som"
 msgid "Uzbekistani som"
 msgstr "Uzbekistansk som"
 
+msgid "Uzbekistan Som"
+msgstr "Uzbekistansk som"
+
+msgid "Uzbekistan som"
+msgstr "Uzbekistansk som"
+
 msgid "Uruguayan Peso"
 msgstr "Uruguayansk peso"
 
 msgid "Uruguayan peso"
+msgstr "Uruguayansk peso"
+
+msgid "Uruguay Peso"
+msgstr "Uruguayansk peso"
+
+msgid "Uruguay peso"
 msgstr "Uruguayansk peso"
 
 msgid "United States Dollar"
@@ -85,6 +127,12 @@ msgstr "Ukrainsk hryvnia"
 msgid "Ukrainian hryvnia"
 msgstr "Ukrainsk hryvnia"
 
+msgid "Ukraine Hryvnia"
+msgstr "Ukrainsk hryvnia"
+
+msgid "Ukraine hryvnia"
+msgstr "Ukrainsk hryvnia"
+
 msgid "New Taiwan Dollar"
 msgstr "Taiwanesisk dollar"
 
@@ -95,6 +143,12 @@ msgid "Tuvaluan Dollar"
 msgstr "Tuvaluansk dollar"
 
 msgid "Tuvaluan dollar"
+msgstr "Tuvaluansk dollar"
+
+msgid "Tuvalu Dollar"
+msgstr "Tuvaluansk dollar"
+
+msgid "Tuvalu dollar"
 msgstr "Tuvaluansk dollar"
 
 msgid "Trinidad and Tobago Dollar"
@@ -109,16 +163,34 @@ msgstr "Turkish lira"
 msgid "Turkish lira"
 msgstr "Turkish lira"
 
+msgid "Turkey Lira"
+msgstr "Turkish lira"
+
+msgid "Turkey lira"
+msgstr "Turkish lira"
+
 msgid "Thai Baht"
 msgstr "Thailändsk baht"
 
 msgid "Thai baht"
 msgstr "Thailändsk baht"
 
+msgid "Thailand Baht"
+msgstr "Thailändsk baht"
+
+msgid "Thailand baht"
+msgstr "Thailändsk baht"
+
 msgid "Syrian Pound"
 msgstr "Syriskt pund"
 
 msgid "Syrian pound"
+msgstr "Syriskt pund"
+
+msgid "Syria Pound"
+msgstr "Syriskt pund"
+
+msgid "Syria pound"
 msgstr "Syriskt pund"
 
 msgid "Salvadoran Colón"
@@ -130,16 +202,34 @@ msgstr "Salvadoransk colón"
 msgid "Salvadoran colón"
 msgstr "Salvadoransk colón"
 
+msgid "El Salvador Colon"
+msgstr "Salvadoransk colón"
+
+msgid "El Salvador colon"
+msgstr "Salvadoransk colón"
+
 msgid "Surinamese Dollar"
 msgstr "Surinamesisk dollar"
 
 msgid "Surinamese dollar"
 msgstr "Surinamesisk dollar"
 
+msgid "Surinam Dollar"
+msgstr "Surinamesisk dollar"
+
+msgid "Surinam dollar"
+msgstr "Surinamesisk dollar"
+
 msgid "Somali Shilling"
 msgstr "Somalisk shilling"
 
 msgid "Somali shilling"
+msgstr "Somalisk shilling"
+
+msgid "Somalia Shilling"
+msgstr "Somalisk shilling"
+
+msgid "Somalia shilling"
 msgstr "Somalisk shilling"
 
 msgid "Saint Helena Pound"
@@ -160,10 +250,22 @@ msgstr "Svensk krona"
 msgid "Swedish krona"
 msgstr "Svensk krona"
 
+msgid "Sweden Krona"
+msgstr "Svensk krona"
+
+msgid "Sweden krona"
+msgstr "Svensk krona"
+
 msgid "Seychellois Rupee"
 msgstr "Seychellisk rupie"
 
 msgid "Seychellois rupee"
+msgstr "Seychellisk rupie"
+
+msgid "Seychelles Rupee"
+msgstr "Seychellisk rupie"
+
+msgid "Seychelles rupee"
 msgstr "Seychellisk rupie"
 
 msgid "Solomon Islands Dollar"
@@ -178,10 +280,22 @@ msgstr "Saudiarabisk rial"
 msgid "Saudi Arabian riyal"
 msgstr "Saudiarabisk rial"
 
+msgid "Saudi Arabia Riyal"
+msgstr "Saudiarabisk rial"
+
+msgid "Saudi Arabia riyal"
+msgstr "Saudiarabisk rial"
+
 msgid "Russian Ruble"
 msgstr "Rysk rubel"
 
-msgid "Russian Ruble"
+msgid "Russian ruble"
+msgstr "Rysk rubel"
+
+msgid "Russia Ruble"
+msgstr "Rysk rubel"
+
+msgid "Russia ruble"
 msgstr "Rysk rubel"
 
 msgid "Serbian Dinar"
@@ -190,16 +304,34 @@ msgstr "Serbisk dinar"
 msgid "Serbian dinar"
 msgstr "Serbisk dinar"
 
+msgid "Serbia Dinar"
+msgstr "Serbisk dinar"
+
+msgid "Serbia dinar"
+msgstr "Serbisk dinar"
+
 msgid "Romanian Leu"
 msgstr "Rumänsk leu"
 
 msgid "Romanian leu"
 msgstr "Rumänsk leu"
 
+msgid "Romania Leu"
+msgstr "Rumänsk leu"
+
+msgid "Romania leu"
+msgstr "Rumänsk leu"
+
 msgid "Qatari Riyal"
 msgstr "Qatarisk riyal"
 
 msgid "Qatari riyal"
+msgstr "Qatarisk riyal"
+
+msgid "Qatar Riyal"
+msgstr "Qatarisk riyal"
+
+msgid "Qatar riyal"
 msgstr "Qatarisk riyal"
 
 msgid "Paraguayan Guaraní"
@@ -214,6 +346,12 @@ msgstr "Paraguayansk guarani"
 msgid "Paraguayan guarani"
 msgstr "Paraguayansk guarani"
 
+msgid "Paraguay Guarani"
+msgstr "Paraguayansk guarani"
+
+msgid "Paraguay guarani"
+msgstr "Paraguayansk guarani"
+
 msgid "Polish Złoty"
 msgstr "Polsk zloty"
 
@@ -226,10 +364,22 @@ msgstr "Polsk zloty"
 msgid "Polish zloty"
 msgstr "Polsk zloty"
 
+msgid "Poland Zloty"
+msgstr "Polsk zloty"
+
+msgid "Poland zloty"
+msgstr "Polsk zloty"
+
 msgid "Pakistani Rupee"
 msgstr "Pakistansk rupie"
 
 msgid "Pakistani rupee"
+msgstr "Pakistansk rupie"
+
+msgid "Pakistan Rupee"
+msgstr "Pakistansk rupie"
+
+msgid "Pakistan rupee"
 msgstr "Pakistansk rupie"
 
 msgid "Philippine Peso"
@@ -238,10 +388,22 @@ msgstr "Filippinsk peso"
 msgid "Philippine peso"
 msgstr "Filippinsk peso"
 
+msgid "Philippines Peso"
+msgstr "Filippinsk peso"
+
+msgid "Philippines peso"
+msgstr "Filippinsk peso"
+
 msgid "Peruvian Sol"
 msgstr "Peruansk sol"
 
 msgid "Peruvian sol"
+msgstr "Peruansk sol"
+
+msgid "Peru Sol"
+msgstr "Peruansk sol"
+
+msgid "Peru sol"
 msgstr "Peruansk sol"
 
 msgid "Panamanian Balboa"
@@ -250,10 +412,22 @@ msgstr "Panamansk balboa"
 msgid "Panamanian balboa"
 msgstr "Panamansk balboa"
 
+msgid "Panama Balboa"
+msgstr "Panamansk balboa"
+
+msgid "Panama balboa"
+msgstr "Panamansk balboa"
+
 msgid "Omani Rial"
 msgstr "Omansk rial"
 
 msgid "Omani rial"
+msgstr "Omansk rial"
+
+msgid "Oman Rial"
+msgstr "Omansk rial"
+
+msgid "Oman rial"
 msgstr "Omansk rial"
 
 msgid "New Zealand Dollar"
@@ -268,10 +442,22 @@ msgstr "Nepalesisk rupie"
 msgid "Nepalese rupee"
 msgstr "Nepalesisk rupie"
 
+msgid "Nepal Rupee"
+msgstr "Nepalesisk rupie"
+
+msgid "Nepal rupee"
+msgstr "Nepalesisk rupie"
+
 msgid "Norwegian Krone"
 msgstr "Norsk krona"
 
 msgid "Norwegian krone"
+msgstr "Norsk krona"
+
+msgid "Norway Krone"
+msgstr "Norsk krona"
+
+msgid "Norway krone"
 msgstr "Norsk krona"
 
 msgid "Nicaragua Córdoba"
@@ -292,10 +478,22 @@ msgstr "Nigeriansk naira"
 msgid "Nigerian naira"
 msgstr "Nigeriansk naira"
 
+msgid "Nigeria Naira"
+msgstr "Nigeriansk naira"
+
+msgid "Nigeria naira"
+msgstr "Nigeriansk naira"
+
 msgid "Namibian Dollar"
 msgstr "Namibisk dollar"
 
 msgid "Namibian dollar"
+msgstr "Namibisk dollar"
+
+msgid "Namibia Dollar"
+msgstr "Namibisk dollar"
+
+msgid "Namibia dollar"
 msgstr "Namibisk dollar"
 
 msgid "Mozambique Metical"
@@ -310,10 +508,22 @@ msgstr "Malaysisk ringgit"
 msgid "Malaysian ringgit"
 msgstr "Malaysisk ringgit"
 
+msgid "Malaysia Ringgit"
+msgstr "Malaysisk ringgit"
+
+msgid "Malaysia ringgit"
+msgstr "Malaysisk ringgit"
+
 msgid "Mexican Peso"
 msgstr "Mexikansk peso"
 
 msgid "Mexican peso"
+msgstr "Mexikansk peso"
+
+msgid "Mexico Peso"
+msgstr "Mexikansk peso"
+
+msgid "Mexico peso"
 msgstr "Mexikansk peso"
 
 msgid "Mauritian Rupee"
@@ -322,10 +532,22 @@ msgstr "Mauritisk rupie"
 msgid "Mauritian rupee"
 msgstr "Mauritisk rupie"
 
+msgid "Mauritius Rupee"
+msgstr "Mauritisk rupie"
+
+msgid "Mauritias rupee"
+msgstr "Mauritisk rupie"
+
 msgid "Mongolian Tughrik"
 msgstr "Mongolisk tugrik"
 
 msgid "Mongolian tughrik"
+msgstr "Mongolisk tugrik"
+
+msgid "Mongolia Tughrik"
+msgstr "Mongolisk tugrik"
+
+msgid "Mongolia tughrik"
 msgstr "Mongolisk tugrik"
 
 msgid "Macedonian Denar"
@@ -334,10 +556,22 @@ msgstr "Makedonisk denar"
 msgid "Macedonian denar"
 msgstr "Makedonisk denar"
 
+msgid "Macedonia Denar"
+msgstr "Makedonisk denar"
+
+msgid "Macedonia denar"
+msgstr "Makedonisk denar"
+
 msgid "Moroccan Dirham"
 msgstr "Marockansk dirham"
 
 msgid "Moroccan dirham"
+msgstr "Marockansk dirham"
+
+msgid "Morocco Dirham"
+msgstr "Marockansk dirham"
+
+msgid "Morocco dirham"
 msgstr "Marockansk dirham"
 
 msgid "Latvian Lats"
@@ -346,16 +580,34 @@ msgstr "Latvisk lats"
 msgid "Latvian lats"
 msgstr "Latvisk lats"
 
+msgid "Latvia Lats"
+msgstr "Latvisk lats"
+
+msgid "Latvia lats"
+msgstr "Latvisk lats"
+
 msgid "Lithuanian Litas"
 msgstr "Litauisk litas"
 
 msgid "Lithuanian litas"
 msgstr "Litauisk litas"
 
+msgid "Lithuania Litas"
+msgstr "Litauisk litas"
+
+msgid "Lithuania litas"
+msgstr "Litauisk litas"
+
 msgid "Liberian Dollar"
 msgstr "Liberiansk dollar"
 
 msgid "Liberian dollar"
+msgstr "Liberiansk dollar"
+
+msgid "Liberia Dollar"
+msgstr "Liberiansk dollar"
+
+msgid "Liberia dollar"
 msgstr "Liberiansk dollar"
 
 msgid "Sri Lanka Rupee"
@@ -370,6 +622,12 @@ msgstr "Libanesiskt pund"
 msgid "Lebanese pound"
 msgstr "Libanesiskt pund"
 
+msgid "Lebanon Pound"
+msgstr "Libanesiskt pund"
+
+msgid "Lebanon pound"
+msgstr "Libanesiskt pund"
+
 msgid "Lao Kip"
 msgstr "Lao kip"
 
@@ -380,6 +638,12 @@ msgid "Kazakhstani Tenge"
 msgstr "Kazakstansk tenge"
 
 msgid "Kazakhstani tenge"
+msgstr "Kazakstansk Tenge"
+
+msgid "Kazakhstan Tenge"
+msgstr "Kazakstansk tenge"
+
+msgid "Kazakhstan tenge"
 msgstr "Kazakstansk Tenge"
 
 msgid "Cayman Islands Dollar"
@@ -394,10 +658,22 @@ msgstr "Sydkoreansk won"
 msgid "South Korean won"
 msgstr "Sydkoreansk won"
 
+msgid "South Korea Won"
+msgstr "Sydkoreansk won"
+
+msgid "South Korea won"
+msgstr "Sydkoreansk won"
+
 msgid "North Korean Won"
 msgstr "Nordkoreansk won"
 
 msgid "North Korean won"
+msgstr "Nordkoreansk won"
+
+msgid "North Korea Won"
+msgstr "Nordkoreansk won"
+
+msgid "North Korea won"
 msgstr "Nordkoreansk won"
 
 msgid "Cambodian Riel"
@@ -406,10 +682,22 @@ msgstr "Kambodjansk riel"
 msgid "Cambodian riel"
 msgstr "Kambodjansk riel"
 
+msgid "Cambodia Riel"
+msgstr "Kambodjansk riel"
+
+msgid "Cambodia riel"
+msgstr "Kambodjansk riel"
+
 msgid "Kyrgyzstani Som"
 msgstr "Kyrgyzstan som"
 
 msgid "Kyrgyzstani som"
+msgstr "Kyrgyzstan som"
+
+msgid "Kyrgyzstan Som"
+msgstr "Kyrgyzstan som"
+
+msgid "Kyrgyzstan som"
 msgstr "Kyrgyzstan som"
 
 msgid "Japanese Yen"
@@ -418,10 +706,22 @@ msgstr "Japansk yen"
 msgid "Japanese yen"
 msgstr "Japansk yen"
 
+msgid "Japan Yen"
+msgstr "Japansk yen"
+
+msgid "Japan yen"
+msgstr "Japansk yen"
+
 msgid "Jamaican Dollar"
 msgstr "Jamaicansk dollar"
 
 msgid "Jamaican dollar"
+msgstr "Jamaicansk dollar"
+
+msgid "Jamaica Dollar"
+msgstr "Jamaicansk dollar"
+
+msgid "Jamaica dollar"
 msgstr "Jamaicansk dollar"
 
 msgid "Jersey Pound"
@@ -433,7 +733,13 @@ msgstr "Jerseypund"
 msgid "Icelandic Krona"
 msgstr "Isländsk krona"
 
-msgid "Icelandic Krona"
+msgid "Icelandic krona"
+msgstr "Isländsk krona"
+
+msgid "Iceland Krona"
+msgstr "Isländsk krona"
+
+msgid "Iceland krona"
 msgstr "Isländsk krona"
 
 msgid "Iranian Rial"
@@ -442,10 +748,22 @@ msgstr "Iransk rial"
 msgid "Iranian rial"
 msgstr "Iransk rial"
 
+msgid "Iran Rial"
+msgstr "Iransk rial"
+
+msgid "Iran rial"
+msgstr "Iransk rial"
+
 msgid "Indian Rupee"
 msgstr "Indisk rupie"
 
 msgid "Indian rupee"
+msgstr "Indisk rupie"
+
+msgid "India Rupee"
+msgstr "Indisk rupie"
+
+msgid "India rupee"
 msgstr "Indisk rupie"
 
 msgid "Isle of Man Pound"
@@ -460,10 +778,22 @@ msgstr "Israelisk shekel"
 msgid "Israeli shekel"
 msgstr "Israelisk shekel"
 
+msgid "Israel Shekel"
+msgstr "Israelisk shekel"
+
+msgid "Israel shekel"
+msgstr "Israelisk shekel"
+
 msgid "Indonesian Rupiah"
 msgstr "Indonesisk rupiah"
 
 msgid "Indonesian rupiah"
+msgstr "Indonesisk rupiah"
+
+msgid "Indonesia Rupiah"
+msgstr "Indonesisk rupiah"
+
+msgid "Indonesia rupiah"
 msgstr "Indonesisk rupiah"
 
 msgid "Hungarian Forint"
@@ -472,16 +802,34 @@ msgstr "Ungersk forint"
 msgid "Hungarian forint"
 msgstr "Ungersk forint"
 
+msgid "Hungary Forint"
+msgstr "Ungersk forint"
+
+msgid "Hungary forint"
+msgstr "Ungersk forint"
+
 msgid "Croatian Kuna"
 msgstr "Kroatisk kuna"
 
 msgid "Croatian kuna"
 msgstr "Kroatisk kuna"
 
+msgid "Croatia Kuna"
+msgstr "Kroatisk kuna"
+
+msgid "Croatia kuna"
+msgstr "Kroatisk kuna"
+
 msgid "Honduran Lempira"
 msgstr "Hondurisk lempira"
 
 msgid "Honduran lempira"
+msgstr "Hondurisk lempira"
+
+msgid "Hondura Lempira"
+msgstr "Hondurisk lempira"
+
+msgid "Hondura lempira"
 msgstr "Hondurisk lempira"
 
 msgid "Hong Kong Dollar"
@@ -496,10 +844,22 @@ msgstr "Guyansk dollar"
 msgid "Guyanese dollar"
 msgstr "Guyansk dollar"
 
+msgid "Guyana Dollar"
+msgstr "Guyansk dollar"
+
+msgid "Guyana dollar"
+msgstr "Guyansk dollar"
+
 msgid "Guatemalan Quetzal"
 msgstr "Guatemalansk quetzal"
 
 msgid "Guatemalan quetzal"
+msgstr "Guatemalansk quetzal"
+
+msgid "Guatemala Quetzal"
+msgstr "Guatemalansk quetzal"
+
+msgid "Guatemala quetzal"
 msgstr "Guatemalansk quetzal"
 
 msgid "Gibraltar Pound"
@@ -514,6 +874,12 @@ msgstr "Ghana cedi"
 msgid "Ghanaian cedis"
 msgstr "Ghana cedi"
 
+msgid "Ghanaia Cedis"
+msgstr "Ghana cedi"
+
+msgid "Ghanaia cedis"
+msgstr "Ghana cedi"
+
 msgid "Guernsey Pound"
 msgstr "Guernseypund"
 
@@ -526,6 +892,12 @@ msgstr "Georgian lari"
 msgid "Georgian lari"
 msgstr "Georgian lari"
 
+msgid "Georgia Lari"
+msgstr "Georgian lari"
+
+msgid "Georgia lari"
+msgstr "Georgian lari"
+
 msgid "British Pound Sterling"
 msgstr "Brittiskt pund"
 
@@ -535,13 +907,28 @@ msgstr "Brittiskt pund"
 msgid "British pound"
 msgstr "Brittiskt pund"
 
+msgid "Great Britain Pound"
+msgstr "Brittiskt pund"
+
+msgid "Great Britain pound"
+msgstr "Brittiskt pund"
+
 msgid "Fijian Dollar"
 msgstr "Fijidollar"
 
 msgid "Fijian dollar"
 msgstr "Fijidollar"
 
+msgid "Fiji Dollar"
+msgstr "Fijidollar"
+
+msgid "Fiji dollar"
+msgstr "Fijidollar"
+
 msgid "Euro"
+msgstr "Euro"
+
+msgid "Europe Euro"
 msgstr "Euro"
 
 msgid "Egyptian Pound"
@@ -550,10 +937,22 @@ msgstr "Egyptiskt pund"
 msgid "Egyptian pound"
 msgstr "Egyptiskt pund"
 
+msgid "Egypt Pound"
+msgstr "Egyptiskt pund"
+
+msgid "Egypt pound"
+msgstr "Egyptiskt pund"
+
 msgid "Estonian Kroon"
 msgstr "Estnisk krona"
 
 msgid "Estonian kroon"
+msgstr "Estnisk krona"
+
+msgid "Estonia Kroon"
+msgstr "Estnisk krona"
+
+msgid "Estonia kroon"
 msgstr "Estnisk krona"
 
 msgid "Dominican Peso"
@@ -562,10 +961,22 @@ msgstr "Dominikansk peso"
 msgid "Dominican peso"
 msgstr "Dominikansk peso"
 
+msgid "Dominican Republic Peso"
+msgstr "Dominikansk peso"
+
+msgid "Dominican Republic peso"
+msgstr "Dominikansk peso"
+
 msgid "Danish Krone"
 msgstr "Dansk krona"
 
 msgid "Danish krone"
+msgstr "Dansk krona"
+
+msgid "Denmark Krone"
+msgstr "Dansk krona"
+
+msgid "Denmark krone"
 msgstr "Dansk krona"
 
 msgid "Czech Koruna"
@@ -574,10 +985,22 @@ msgstr "Tjeckisk krona"
 msgid "Czech koruna"
 msgstr "Tjeckisk krona"
 
+msgid "Czech Republic Koruna"
+msgstr "Tjeckisk krona"
+
+msgid "Czech Republic koruna"
+msgstr "Tjeckisk krona"
+
 msgid "Cuban Peso"
 msgstr "Kubansk peso"
 
 msgid "Cuban peso"
+msgstr "Kubansk peso"
+
+msgid "Cuba Peso"
+msgstr "Kubansk peso"
+
+msgid "Cuba peso"
 msgstr "Kubansk peso"
 
 msgid "Costa Rican Colón"
@@ -592,10 +1015,22 @@ msgstr "Costaricansk colón"
 msgid "Costa Rican colon"
 msgstr "Costaricansk colón"
 
+msgid "Costa Rica Colon"
+msgstr "Costaricansk colón"
+
+msgid "Costa Rica colon"
+msgstr "Costaricansk colón"
+
 msgid "Colombian Peso"
 msgstr "Colombiansk peso"
 
 msgid "Colombian peso"
+msgstr "Colombiansk peso"
+
+msgid "Colombia Peso"
+msgstr "Colombiansk peso"
+
+msgid "Colombia peso"
 msgstr "Colombiansk peso"
 
 msgid "Chinese Renminbi"
@@ -604,10 +1039,22 @@ msgstr "Kinesisk renminbi"
 msgid "Chinese renminbi"
 msgstr "Kinesisk renminbi"
 
+msgid "China Renminbi"
+msgstr "Kinesisk renminbi"
+
+msgid "China renminbi"
+msgstr "Kinesisk renminbi"
+
 msgid "Chilean Peso"
 msgstr "Chilensk peso"
 
 msgid "Chilean peso"
+msgstr "Chilensk peso"
+
+msgid "Chile Peso"
+msgstr "Chilensk peso"
+
+msgid "Chile peso"
 msgstr "Chilensk peso"
 
 msgid "Swiss Franc"
@@ -616,10 +1063,22 @@ msgstr "Schweizisk franc"
 msgid "Swiss franc"
 msgstr "Schweizisk franc"
 
+msgid "Switzerland Franc"
+msgstr "Schweizisk franc"
+
+msgid "Switzerland franc"
+msgstr "Schweizisk franc"
+
 msgid "Canadian Dollar"
 msgstr "Kanadensisk dollar"
 
 msgid "Canadian dollar"
+msgstr "Kanadensisk dollar"
+
+msgid "Canada Dollar"
+msgstr "Kanadensisk dollar"
+
+msgid "Canada dollar"
 msgstr "Kanadensisk dollar"
 
 msgid "Belize Dollar"
@@ -634,6 +1093,12 @@ msgstr "Vitrysk rubel"
 msgid "Belarusian ruble"
 msgstr "Vitrysk rubel"
 
+msgid "Belarus Ruble"
+msgstr "Vitrysk rubel"
+
+msgid "Belarus ruble"
+msgstr "Vitrysk rubel"
+
 msgid "Botswana Pula"
 msgstr "Botswansk pula"
 
@@ -646,16 +1111,34 @@ msgstr "Bahamansk dollar"
 msgid "Bahamaian dollar"
 msgstr "Bahamansk dollar"
 
+msgid "Bahamas Dollar"
+msgstr "Bahamansk dollar"
+
+msgid "Bahamas dollar"
+msgstr "Bahamansk dollar"
+
 msgid "Brazilian Real"
 msgstr "Brasiliansk real"
 
-msgid "Brazilian Real"
+msgid "Brazilian real"
+msgstr "Brasiliansk real"
+
+msgid "Brazil Real"
+msgstr "Brasiliansk real"
+
+msgid "Brazil real"
 msgstr "Brasiliansk real"
 
 msgid "Bolivian Boliviano"
 msgstr "Boliviansk boliviano"
 
 msgid "Bolivian boliviano"
+msgstr "Boliviansk boliviano"
+
+msgid "Bolivia Boliviano"
+msgstr "Boliviansk boliviano"
+
+msgid "Bolivia boliviano"
 msgstr "Boliviansk boliviano"
 
 msgid "Brunei Dollar"
@@ -670,16 +1153,34 @@ msgstr "Bermudisk dollar"
 msgid "Bermudian dollar"
 msgstr "Bermudisk dollar"
 
+msgid "Bermuda Dollar"
+msgstr "Bermudisk dollar"
+
+msgid "Bermuda dollar"
+msgstr "Bermudisk dollar"
+
 msgid "Bulgarian Lev"
 msgstr "Bulgarisk lev"
 
 msgid "Bulgarian lev"
 msgstr "Bulgarisk lev"
 
+msgid "Bulgaria Lev"
+msgstr "Bulgarisk lev"
+
+msgid "Bulgaria lev"
+msgstr "Bulgarisk lev"
+
 msgid "Barbadian Dollar"
 msgstr "Barbadosdollar"
 
-msgid "Barbadian Dollar"
+msgid "Barbadian dollar"
+msgstr "Barbadosdollar"
+
+msgid "Barbados Dollar"
+msgstr "Barbadosdollar"
+
+msgid "Barbados dollar"
 msgstr "Barbadosdollar"
 
 msgid "Bosnia and Herzegovina convertible Mark"
@@ -694,10 +1195,22 @@ msgstr "Azerbajdzjanska manat"
 msgid "Azerbaijani manat"
 msgstr "Azerbajdzjanska manat"
 
+msgid "Azerbaijan Manat"
+msgstr "Azerbajdzjanska manat"
+
+msgid "Azerbaijan manat"
+msgstr "Azerbajdzjanska manat"
+
 msgid "Aruban Florin"
 msgstr "Arubansk florin"
 
 msgid "Aruban florin"
+msgstr "Arubansk florin"
+
+msgid "Aruba Florin"
+msgstr "Arubansk florin"
+
+msgid "Aruba florin"
 msgstr "Arubansk florin"
 
 msgid "Australian Dollar"
@@ -706,10 +1219,22 @@ msgstr "Australisk dollar"
 msgid "Australian dollar"
 msgstr "Australisk dollar"
 
+msgid "Australia Dollar"
+msgstr "Australisk dollar"
+
+msgid "Australia dollar"
+msgstr "Australisk dollar"
+
 msgid "Argentine Peso"
 msgstr "Argentisk peso"
 
 msgid "Argentine peso"
+msgstr "Argentisk peso"
+
+msgid "Argentina Peso"
+msgstr "Argentisk peso"
+
+msgid "Argentina peso"
 msgstr "Argentisk peso"
 
 msgid "Netherlands Antilles Guilder"
@@ -721,13 +1246,25 @@ msgstr "Nederländsk gulden"
 msgid "Albanian Lek"
 msgstr "Albansk lek"
 
-msgid "Albanian Lek"
+msgid "Albanian lek"
+msgstr "Albansk lek"
+
+msgid "Albania Lek"
+msgstr "Albansk lek"
+
+msgid "Albania lek"
 msgstr "Albansk lek"
 
 msgid "Afghan Afghani"
 msgstr "Afghansk afghani"
 
 msgid "Afghan afghani"
+msgstr "Afghansk afghani"
+
+msgid "Afghanistan Afghani"
+msgstr "Afghansk afghani"
+
+msgid "Afghanistan afghani"
 msgstr "Afghansk afghani"
 
 msgid "United Arab Emirates Dirham"
